@@ -1,6 +1,6 @@
-# Payload Library for the [USB Rubber Ducky](https://hak5.org/products/usb-rubber-ducky?variant=39874478932081) by [Hak5](https://hak5.org)
+# Payload Library for the [USB Rubber Ducky](https://hak5.org/products/usb-rubber-ducky?variant=39874478932081) by ParoTeen Inc
 
-This repository contains payloads, extensions and languages for the Hak5 USB Rubber Ducky. Community developed payloads are listed and developers are encouraged to create pull requests to make changes to or submit new payloads.
+This repository contains payloads, extensions and languages for the paroteen USB Rubber Ducky. Community developed payloads are listed and developers are encouraged to create pull requests to make changes to or submit new payloads.
 
 **Payloads here are written in official DuckyScript™ specifically for the USB Rubber Ducky. Payloads here must be compiled using Hak5 PayloadStudio. Hak5 does NOT guarantee payload functionality.** <a href="#legal"><b>See Legal and Disclaimers</b></a>
 
@@ -294,7 +294,7 @@ Example:
 
 <h1><a href="https://hak5.org/pages/policy">Legal</a></h1>
 
-Payloads from this repository are provided for educational purposes only.  Hak5 gear is intended for authorized auditing and security analysis purposes only where permitted subject to local and international laws where applicable. Users are solely responsible for compliance with all laws of their locality. paroteen LLC and affiliates claim no responsibility for unauthorized or unlawful use.
+Payloads from this repository are provided for educational purposes only.  paroteen gear is intended for authorized auditing and security analysis purposes only where permitted subject to local and international laws where applicable. Users are solely responsible for compliance with all laws of their locality. paroteen LLC and affiliates claim no responsibility for unauthorized or unlawful use.
 
 USB Rubber Ducky and DuckyScript are the trademarks of paroteen LLC. Copyright © 2010 paroteen LLC. All rights reserved. No part of this work may be reproduced or transmitted in any form or by any means without prior written permission from the copyright owner.
 USB Rubber Ducky and DuckyScript are subject to the Hak5 license agreement (https://hak5.org/license)
